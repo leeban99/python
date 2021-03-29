@@ -18,3 +18,5 @@ print(str.split(" "))
 list = []
 list = str
 print(list)
+x,y = 3, 3.1
+print("x and y are equal" if x==y else "x and y are not equal")
