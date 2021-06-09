@@ -11,4 +11,4 @@ parameters = {
 response = requests.get(url, params=parameters)
 response_json = response.json()
 print(response_json)
-print("Test")
+print("Testing")
